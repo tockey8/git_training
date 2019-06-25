@@ -1,0 +1,1 @@
+Thiis is the first of some text written in Neovim
